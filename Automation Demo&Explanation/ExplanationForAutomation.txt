@@ -1,0 +1,13 @@
+					 		Automation Task
+
+1- This file contains automated tests for facebook registration and login scenarios
+	* As discussed i wrote the register script without testing it
+	* i have tested login facebook script with my personal account then i attached the CSV file with dummy email
+2- Using Page object model framework during this task 
+3- Using data driven framework (CSV) file
+4- You can run the two scripts from TestSuite.xml file 
+5- Pages package contains all locators and methods 
+6- data package contains the CSV file 
+7- tests package contains the test cases scripts
+
+
